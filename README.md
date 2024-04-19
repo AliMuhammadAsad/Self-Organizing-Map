@@ -23,3 +23,15 @@ Feel free to change the parameters. The ```SOM``` class also contains commented 
 
 Some of the sample ```SOM``` grid clusters and their corresponding world mappings are shown below:
 
+<div>
+<img src='images/som_50_50.png' align='left' width='45%'/> <img src='images/map_50_50.png' align='center' width='33.75%'/>
+</div>
+<!-- <div>
+<img src='images' align='left' width='45%'/> <img src='images' align='right' width='45%'/>
+</div>
+<div>
+<img src='images' align='left' width='45%'/> <img src='images' align='right' width='45%'/>
+</div>
+<div>
+<img src='images' align='left' width='45%'/> <img src='images' align='right' width='45%'/>
+</div> -->
